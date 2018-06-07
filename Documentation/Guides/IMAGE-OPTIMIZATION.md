@@ -5,6 +5,7 @@ This guide will show how enable Fastly Image Optimization from the Magento admin
 ## Prerequisite
 
 * You have to have IO feature enabled for your Fastly service. IO is a contracted add-on.
+[To do: add that customers should upgrade to plugin version 1.2.5.?]
  
 ## Enablement
  
